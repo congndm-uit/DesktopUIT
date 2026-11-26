@@ -2,6 +2,8 @@
 #include <ctime>
 #include <limits>
 
+// Chỉnh sửa tay trên github
+
 Candidate::Candidate()
     : maSo(""), hoTen(""), gioiTinh(true), namSinh(2000), dtb(0), khoaHoc(nullptr) {}
 
